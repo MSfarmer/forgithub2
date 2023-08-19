@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My ApplicationXYZ</string>
+    <string name="hint_player_name">請輸入玩家姓名</string>
+    <string name="start_game_hint">請輸入姓名以開始遊戲</string>
+    <string name="android_text">剪刀</string>
+    <string name="android_text2">石頭</string>
+    <string name="android_text3">布</string>
+    <string name="android_text4">猜拳</string>
+    <string name="android_text_name">名字</string>
+    <string name="android_text_winner">勝利者</string>
+    <string name="android_text_myChoice">我方出拳</string>
+    <string name="android_text_computerChoice">電腦出拳</string>
+</resources>

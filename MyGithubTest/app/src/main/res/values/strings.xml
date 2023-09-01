@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Github Test</string>
     <string name="greet_name">Hello all my World</string>
+    <string name="button">Button</string>
 </resources>
